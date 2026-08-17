@@ -2,9 +2,7 @@
 
 > **An independent product teardown and prototype exploring how Smytten can reduce decision friction in its trial journey.**
 
-🔗 **Prototype:** [Add Prototype Link]
-📄 **Product Teardown:** [Add PDF Link]
-
+🔗 **Prototype:** https://dishagupta121.github.io/Smytten-Match-Know-What-to-Try/
 ---
 
 ## The Problem
